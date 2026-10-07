@@ -32,6 +32,8 @@ positioned across the upper trunk, middle trunk, and pelvis.
 - Wireless data transmission
 - Mobile visualization
 
+- 
+
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
