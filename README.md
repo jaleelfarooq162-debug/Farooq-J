@@ -36,7 +36,5 @@ positioned across the upper trunk, middle trunk, and pelvis.
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Backend Development
-- Cloud Technologies
 - AI/ML Fundamentals
 
